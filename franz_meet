@@ -30,4 +30,6 @@ http://bigdft.org/Wiki/index.php?title=BigDFT_website
 BigDFT is abinitio and scales linearly with system size Ne, 
 but only after 1e3 atoms is reached.  
 
+Reaches a peak because of the memory of FPGA?
+http://www.spiral.net/graphics/bench-swhw-2pow-a.gif
 
