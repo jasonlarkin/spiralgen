@@ -1,0 +1,33 @@
+
+talk hardware and software specifics
+
+
+
+http://www.spiral.net/graphics/bench-spmd.gif
+what are code details?
+
+http://software.intel.com/en-us/intel-ipp
+
+
+http://en.wikipedia.org/wiki/Hadamard_transform
+
+http://www.spiral.net/graphics/bench-gpu-gray.gif
+what does a 2-fold increase in Gflop/s buy you in 
+
+how can spiral help Wavelet transformation? 
+
+Can wavelet transformations or families of wavelet transforms 
+be generalized?
+
+http://en.wikipedia.org/wiki/Discrete_wavelet_transform
+
+BigDFT: uses wavelet transforms
+
+http://bigdft.org/Wiki/index.php?title=Wavelet_formalism
+
+http://bigdft.org/Wiki/index.php?title=BigDFT_website
+
+BigDFT is abinitio and scales linearly with system size Ne, 
+but only after 1e3 atoms is reached.  
+
+
