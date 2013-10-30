@@ -1,0 +1,79 @@
+
+%-----------------------------------------------------------
+10/11/13
+%-----------------------------------------------------------
+run spiral on samsung 
+import numpy
+import spiral
+x = arrange(1,1024)
+timeit numpy.fft(x)
+timeit spiral.fft(x)
+
+spiral symbolic representation
+sorting algorithms (representation?)
+is the ability of spiral to optimise dependent on the representation, and/or 
+the ability to be represented?
+what 
+
+landshark + Brownian noise -> area.around(waypoint)++
+%-----------------------------------------------------------
+ 
+install.spiral
+produce compile spiral optimized code
+
+workstation
+http://www.ubuntu.com/download/server/install-ubuntu-server
+https://help.ubuntu.com/community/TorquePbsHowto
+http://askubuntu.com/questions/225179/openmpi-1-6-3-on-ubuntu-12-10
+https://help.ubuntu.com/community/MpichCluster
+https://help.ubuntu.com/community/VMware/Server
+
+python
+
+https://launchpad.net/ubuntu/+source/fftw3
+sudo apt-get install fftw3 fftw3-dev pkg-config
+http://lammps.sandia.gov/download.html#ubuntu
+
+https://launchpad.net/ubuntu/+source/abinit
+https://answers.launchpad.net/ubuntu/+source/abinit/+question/121963
+
+http://packages.ubuntu.com/precise/quantum-espresso
+http://conquer-ur-computer.blogspot.com/2010/12/install-quantum-espresso-in-ubuntu.html
+
+android
+http://stackoverflow.com/questions/8698798/how-to-compile-and-run-a-c-c-program-on-the-android-system
+http://developer.android.com/tools/sdk/ndk/index.html#samples
+http://shareprogrammingtips.com/c-language-programming-tips/how-can-i-write-applications-in-c-or-c-for-android/
+
+
+%-----------------------------------------------------------
+10/18/13
+%-----------------------------------------------------------
+previous: 
+workstation:
+(remotedesktop,virtual box,PBS,openmpi,fftw,abinit,lammps)
+backup by imaging+cron
+
+Python demo
+
+ROS demo
+
+questions:
+spiral+video_games=squeeze every last drop 
+
+MD algorithms=video games, lamps, etc
+velocity verlet algorithm
+%-----------------------------------------------------------
+
+%-----------------------------------------------------------
+10/29/13
+%-----------------------------------------------------------
+
+http://rice2014.og-hpc.org/call-for-abstracts/
+
+http://spiralgen.comcastbiz.net/
+
+
+%-----------------------------------------------------------
+
+
